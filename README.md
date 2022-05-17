@@ -16,22 +16,22 @@ The code has been organized below based on the sections outline in the manuscrip
          * Assembly
          * Mapping
     * 2. Binning of metagenomic contigs
-    * 3 Making phenotype files based on contig depth
-    * 4 Feature selection
-    * 5 Taxonomic and functional annotation of the metagenome
+    * 3. Making phenotype files based on contig depth
+    * 4. Feature selection
+    * 5. Taxonomic and functional annotation of the metagenome
          * Functional annotation
          * Taxonomic annotation
-    * 6 Single Nucleotide Variant analysis
+    * 6. Single Nucleotide Variant analysis
          * Bin QTL
          * Contig QTL
-    * 7 Quantitative Trait Locus Analysis
+    * 7. Quantitative Trait Locus Analysis
 * 2.4 Amplicon-based bulk segregant analysis of Streptomyces and Cellvibrio abundance 
     * 1. Independent validation of QTLs through bulk segregant analysis
     * 2. Bulk Segregation Analysis
 * 2.5 Illuminating metagenomic traits in Cellvibrio and Streptomyces
 * 2.6 Genomic structure in Cellvibrio and Streptomyces provides insights into adaptations for differential recruitment
     * 1. Single Nucleotide Variant analysis
-        * InStrain
-        * SNV extraction
-        * SNV selection and annotation
+         * InStrain
+         * SNV extraction
+         * SNV selection and annotation
     * 2. Quantitative Trait Loci Analysis
