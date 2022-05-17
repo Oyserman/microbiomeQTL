@@ -1,12 +1,33 @@
 # Disentangling the genetic basis of rhizosphere microbiome assembly in tomato
 
-Here, we map the molecular features of the rhizosphere microbiome as quantitative traits of a diverse hybrid population of wild and domesticated tomato.
+This is a repository of code used by Oyserman, et al. "Disentangling the genetic basis of rhizosphere microbiome assembly in tomato." Nature communications (2022).
 
-## Getting started
+Due to the complexity of the analysis, the code has been organized below based on the sections outline in the manuscript.
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## Organization
+* Mapping files
+* 2.1 Baseline analyses of the tomato Recombinant Inbred Line population
+* 2.2 Taxonomic microbiome features as quantitative traits
+    * 4.2.1 rRNA amplicon sequence processing 
+* 2.3 Functional microbiome features as quantitative traits 
+    * 4.2.2 Metagenomics analysis
+    * 4.2.3 Binning of metagenomic contigs
+    * MAG Bins & Contigs greater than 10 KB
+    * 4.2.4 Making phenotype files based on contig depth
+    * 4.2.5 Feature selection
+    * 4.2.6 Taxonomic and functional annotation of the metagenome
+    * 4.2.7 Single Nucleotide Variant analysis
+    * 4.2.8 Quantitative Trait Locus Analysis
+* 2.4 Amplicon-based bulk segregant analysis of Streptomyces and Cellvibrio abundance 
+    * 4.3 Independent validation of QTLs through bulk segregant analysis
+    * Bulk Segregation Analysis
+* 2.6 Illuminating metagenomic traits in Cellvibrio and Streptomyces
+* 4.2.7 Single Nucleotide Variant analysis
+    * InStrain
+    * SNV extraction
+    * SNV selection and annotation
+* 4.2.8 Quantitative Trait Locus Analysis
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
 ## Add your files
 
