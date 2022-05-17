@@ -1,0 +1,3 @@
+# Command used to run antiSMASH v. 5.1.2. on the rhizosphere-enriched contigs mapped as QTLs.
+
+antismash -c 24 --taxon bacteria --output-dir antismash_QTLcontigs --cb-general --cb-knownclusters --cb-subclusters --genefinding-tool prodigal-m 

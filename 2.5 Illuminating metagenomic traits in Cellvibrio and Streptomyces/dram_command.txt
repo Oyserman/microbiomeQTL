@@ -1,0 +1,3 @@
+# MAG.72 was further annotated using DRAM (DRAM v1.2):
+
+DRAM.py annotate -i bin.72.fa -o mag.72.annotations --prodigal_mode single 
