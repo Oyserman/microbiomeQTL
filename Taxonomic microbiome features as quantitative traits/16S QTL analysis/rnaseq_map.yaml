@@ -1,0 +1,14 @@
+crosstype: riself
+geno: Tomaat_Micro_biome_RNA_Seq_map/geno.csv
+pheno: replicated_flexiblecore.csv
+#pmap: Tomaat_Micro_biome_RNA_Seq_map/pmap.csv
+gmap: Tomaat_Micro_biome_RNA_Seq_map/gmap.csv
+
+alleles:
+  - A
+  - B
+genotypes:
+  A: 1
+  B: 2
+  H: 3
+

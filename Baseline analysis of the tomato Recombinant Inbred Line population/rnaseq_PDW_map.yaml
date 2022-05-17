@@ -1,0 +1,14 @@
+crosstype: riself
+geno: geno.csv
+pheno: RIL_metadata_replicates_5_19_2019.csv
+#pmap: pmap.csv
+gmap: gmap.csv
+
+alleles:
+  - A
+  - B
+genotypes:
+  A: 1
+  B: 2
+  H: 3
+

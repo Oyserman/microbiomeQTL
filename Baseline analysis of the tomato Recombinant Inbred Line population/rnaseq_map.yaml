@@ -1,0 +1,14 @@
+crosstype: riself
+geno: geno_k.csv
+pheno: khan_pdw_2012.txt
+#pmap: pmap.csv
+gmap: gmap.csv
+
+alleles:
+  - A
+  - B
+genotypes:
+  A: 1
+  B: 2
+  H: 3
+
